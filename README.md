@@ -29,7 +29,7 @@ This repository documents the full step-by-step compromise of the TryHackMe *ICE
 ## 📄 Report
 
 Download the full professional write-up:  
-📄 [ICE_Room_Report_Rishi_Bose.docx](./ICE_Room_Report_Rishi_Bose.docx)
+📄 [ICE_Room_Report_Rishi_Bose.docx](./ICE_Room_Rishi_Bose.pdf)
 
 ---
 
